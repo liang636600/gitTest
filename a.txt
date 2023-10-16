@@ -1,6 +1,4 @@
 hello
-<<<<<<< HEAD
 world2
 what a 
-=======
->>>>>>> parent of 27ac3ec (Update a.txt)
+
